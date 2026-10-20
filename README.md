@@ -1,182 +1,188 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=170&section=header&text=Venkata%20Aakash&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%26%20Security%20%7C%20Blockchain&descAlignY=60&descSize=17" width="100%" alt="Header"/>
+<img src="assets/banner.svg" alt="Gudivada Venkata Aakash: Software Engineer, Cloud and Security, Blockchain" width="100%"/>
 
-**Full-Stack Engineer · Cloud & Security · Web3 Developer**
-B.Tech CSE @ SRKR Engineering College · 3 Internships · 1.5+ Years of Hands-on IT Experience
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Building+secure%2C+scalable+cloud-native+software;Full-Stack+%C2%B7+Cloud+%C2%B7+Security+%C2%B7+Web3;Open+to+Software+%2F+Cloud+%2F+Security+%2F+Blockchain+roles" alt="Typing animation"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-aakash-179415288/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:venkataaakash5@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![Resume](https://img.shields.io/badge/Resume-Download-1D4ED8?style=flat-square&logo=readthedocs&logoColor=white)](https://YOUR-RESUME-LINK)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-aakash-179415288/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkataaakash5@gmail.com)
+<!-- TODO: uncomment once you have the links
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Resume](https://img.shields.io/badge/Resume-Download-1D4ED8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://YOUR-RESUME-LINK)
+-->
 
 </div>
 
 ---
 
-## 👋 Summary
+## 👋 About
 
-I build **secure, scalable, cloud-native software**, from React/Node/FastAPI front-to-back systems to smart contracts on EVM chains. My work sits at the intersection of **full-stack engineering, cloud infrastructure, and security**, and I care about shipping software that is reliable, observable, and safe by design.
+I'm a final-stage **B.Tech Computer Science** student with **3 internships and 1.5+ years of hands-on IT experience** across **full-stack development, cloud computing and cybersecurity**, plus a deep interest in **Web3**, where I build decentralized apps and smart contracts.
 
-> 🎯 **Open to:** Software Engineer · Cloud Engineer · Security Engineer · Blockchain Developer (Full-time / Internship, Onsite / Hybrid / Remote)
+I like work where **reliability, security and clean engineering** matter: APIs that hold up under load, cloud setups that are locked down properly, and contracts that can't be easily exploited.
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech, Computer Science & Engineering, SRKR Engineering College, Bhimavaram |
-| 🏫 **Foundation** | Diploma in Computer Science, Sir C.R. Reddy Polytechnic College |
-| 💼 **Experience** | 3 internships · 1.5+ years across Full Stack, Cloud, and Cybersecurity |
-| 🔭 **Focus** | Distributed systems, cloud security, secure smart contracts, applied ML |
-| 📍 **Location** | India · Open to relocation |
+> 🎯 **Open to:** Software Engineer · Cloud Engineer · Security Engineer · Blockchain Developer
+
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>B.Tech CSE, SRKR Engineering College, Bhimavaram<br/>Diploma in CSE, Sir C.R. Reddy Polytechnic College</td>
+  </tr>
+  <tr>
+    <td><b>💼 Experience</b></td>
+    <td>3 internships · 1.5+ years across Full Stack, Cloud and Cybersecurity</td>
+  </tr>
+  <tr>
+    <td><b>🔭 Focus areas</b></td>
+    <td>Distributed backends · Cloud security · Smart contracts · Applied ML</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Availability</b></td>
+    <td>Full-time and internship roles · open to relocation</td>
+  </tr>
+</table>
+
+---
+
+## 🧭 What I Bring
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### 🛠️ Build
+Full-stack products with **React, Node/NestJS and FastAPI**, backed by SQL and NoSQL stores, designed for clean APIs and maintainable code.
+
+</td>
+    <td width="33%" valign="top">
+
+### 🔐 Secure
+**Security by design**: authentication flows, input validation, least-privilege cloud access and threat-aware architecture on **AWS and Azure**.
+
+</td>
+    <td width="33%" valign="top">
+
+### ⛓️ Decentralize
+**Solidity smart contracts** and Web3.js dApps, with attention to correctness, gas efficiency and common vulnerability classes.
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Technical Skills
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cpp,solidity,html,css" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,webpack" alt="Frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" alt="Backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel" alt="Cloud and DevOps"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,firebase,supabase,sqlite" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" alt="Data and ML"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+---
 
-**Backend & APIs**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## 🚀 Featured Project
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🛡️ TEEKA: AI-driven UPI scam-workflow detection
+**RAKSHAM PS02 hackathon entry**
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+| | |
+|---|---|
+| **Problem** | Scam patterns across UPI, banking and wallet flows are hard to spot in time, and noisy alerting causes alert fatigue. |
+| **Approach** | Pattern recognition over scam workflows, with timely, low-noise alerts. Validated on a synthetic UPI event simulator. |
+| **Evidence** | 20-seed benchmark and a 17-slide technical submission deck. |
 
-**Web3 & Blockchain**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+<!-- TODO: add your real benchmark numbers (precision / recall / false-alert reduction) as an extra row, and the repo link:
+| **Result** | precision X · recall Y · false alerts reduced by Z% |
+[View repository](https://github.com/GVAHCK/REPO-NAME)
+-->
 
-**Data & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+<!-- TODO: add 2-3 more projects as pin cards. Replace REPO with your repo names:
+<a href="https://github.com/GVAHCK/REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GVAHCK&repo=REPO&theme=tokyonight&hide_border=true" alt="REPO"/></a>
+-->
 
 ---
 
-## 🚀 Featured Projects
-
-> Replace the bracketed items with your real details. Recruiters scan for **problem → approach → measurable result**.
-
-### 🛡️ TEEKA: AI-Driven UPI Scam Workflow Detection
-*RAKSHAM PS02 Hackathon*
-Detects scam patterns across UPI / banking / wallet flows and raises timely alerts while minimizing alert fatigue. Backed by a synthetic UPI event simulator and a 20-seed benchmark.
-**Stack:** `Python` · `[ML libs]` · `[API framework]`
-**Result:** `[metric, e.g. precision / recall / false-alert reduction from your benchmark]`
-🔗 [Repository](https://github.com/GVAHCK/REPO-NAME)
-
-### ⛓️ [Project Name]: Decentralized Application
-`[One line: what problem it solves and for whom.]`
-**Stack:** `Solidity` · `Web3.js` · `React` · `[Hardhat/Foundry]`
-**Highlights:** `[contract tests, gas optimization, security checks, testnet deployment]`
-🔗 [Repository](https://github.com/GVAHCK/REPO-NAME) · [Live Demo](https://YOUR-DEMO-URL)
-
-### ☁️ [Project Name]: Cloud-Native Full-Stack Platform
-`[One line: what it does.]`
-**Stack:** `React` · `NestJS / FastAPI` · `AWS / Azure` · `Docker` · `[DB]`
-**Highlights:** `[auth, CI/CD, scalability, monitoring, cost or latency improvements]`
-🔗 [Repository](https://github.com/GVAHCK/REPO-NAME) · [Live Demo](https://YOUR-DEMO-URL)
-
-### 🔐 [Project Name]: Security Project
-`[Vulnerability scanner, threat-detection tool, secure auth system, etc.]`
-**Stack:** `[tools]`
-**Highlights:** `[what you detected / prevented / hardened]`
-🔗 [Repository](https://github.com/GVAHCK/REPO-NAME)
-
----
+<!-- TODO: uncomment and fill in your three internships. Use: action + tech + measurable result.
 
 ## 💼 Experience
 
-### [Internship 1 Title], *[Company]* · `[Mon YYYY – Mon YYYY]`
-- Built / shipped `[feature or system]` using `[stack]`, resulting in `[measurable outcome]`
-- Improved `[performance / reliability / security]` by `[X%]` through `[approach]`
+**[Role] · [Company]** · Mon YYYY – Mon YYYY
+- Built [feature/system] using [stack], which [measurable outcome]
+- Improved [performance/reliability/security] by [X%] through [approach]
 
-### [Internship 2 Title], *[Company]* · `[Mon YYYY – Mon YYYY]`
-- Designed and deployed `[cloud workflow / service]` on `[AWS / Azure]`
-- Implemented `[security control, e.g. IAM hardening, input validation, auth flow]`
+-->
 
-### [Internship 3 Title], *[Company]* · `[Mon YYYY – Mon YYYY]`
-- Developed `[smart contracts / APIs / UI]` with `[tools]`; collaborated via `[Git, code reviews, agile]`
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Years |
-|---|---|---|
-| B.Tech, Computer Science & Engineering | SRKR Engineering College, Bhimavaram | `[YYYY – YYYY]` |
-| Diploma, Computer Science | Sir C.R. Reddy Polytechnic College | `[YYYY – YYYY]` |
-
----
-
-## 🏆 Certifications & Achievements
-
-- `[AWS Certified Cloud Practitioner / Azure Fundamentals / Security+ / etc.]`
-- `[Hackathon: RAKSHAM PS02, your result or recognition]`
-- `[Coding platform ratings, open-source contributions, publications]`
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GVAHCK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1D4ED8&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVAHCK&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GVAHCK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVAHCK&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=GVAHCK&theme=github-dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GVAHCK&theme=github_dark" height="150" alt="Profile Details"/>
+<img src="https://streak-stats.demolab.com?user=GVAHCK&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🧭 What I'm Working Toward
+## 🎯 Currently Focused On
 
-- 🔹 Building production-grade systems with strong **testing, CI/CD, and observability**
-- 🔹 Deepening **cloud security** (IAM, secrets management, threat modeling, secure SDLC)
-- 🔹 Writing **audited-quality smart contracts** with a focus on gas efficiency and security
-- 🔹 Practicing **DSA and system design** for large-scale engineering roles
+- 🔹 Production-grade engineering: testing, CI/CD and observability
+- 🔹 Cloud security: IAM, secrets management and threat modeling
+- 🔹 Smart-contract security and gas optimization
+- 🔹 Data structures, algorithms and system design
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm actively seeking **Software Engineer / Cloud & Security Engineer / Blockchain Developer** opportunities. If you're hiring or want to collaborate, reach out.
+I'm actively looking for **Software Engineer, Cloud & Security Engineer and Blockchain Developer** opportunities. If you're hiring or building something interesting, I'd love to talk.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--aakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-aakash-179415288/)
-[![Email](https://img.shields.io/badge/Email-venkataaakash5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkataaakash5@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+[![Email](https://img.shields.io/badge/Email-venkataaakash5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkataaakash5@gmail.com)
 
 </div>
