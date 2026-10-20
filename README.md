@@ -1,62 +1,142 @@
-# 💫 About Me:
-I’m a **B.Tech Computer Science Engineering student** at **SRKR Engineering College, Bhimavaram**, with a strong foundation built from my **Diploma in Computer Science** at **Sir C.R. Reddy Polytechnic College**.  
+<!--
+  GitHub profile README for GVAHCK
+  Repo must be named exactly: GVAHCK/GVAHCK  (public)
+  Search "EDIT" and replace every placeholder before you commit.
+-->
 
-I have completed **3 internships** and gained **1.5+ years of practical IT experience** in **Full Stack Development, Cloud Computing, and Cybersecurity**. I’m also passionate about **Web3 & Blockchain development**, where I build decentralized applications and smart contract solutions.  
+<div align="center">
 
-I’m actively looking for opportunities where I can apply my skills, contribute to real-world projects, and grow as a **Software Engineer / Cloud & Security Engineer / Blockchain Developer**.
+<h1>Venkata Aakash</h1>
 
----
+<p><b>Software Engineer &nbsp;·&nbsp; Cloud &amp; Security &nbsp;·&nbsp; Web3</b></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-aakash-179415288/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkataaakash5@gmail.com)
+<p>
+I build full stack products, deploy them on the cloud,<br/>
+and design them to be secure from the first commit.
+</p>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/venkata-aakash-179415288/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:venkataaakash5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <!-- EDIT: replace with your real portfolio URL, or delete this line -->
+  <a href="https://YOUR-PORTFOLIO.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
----
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GVAHCK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GVAHCK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GVAHCK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About
 
----
+B.Tech Computer Science student at **SRKR Engineering College, Bhimavaram**, building on a **Diploma in Computer Science** from Sir C.R. Reddy Polytechnic College.
 
-[![](https://visitcount.itsvg.in/api?id=GVAHCK&icon=0&color=0)](https://visitcount.itsvg.in)
+**3 internships and 1.5+ years of hands-on IT experience** across full stack development, cloud computing, and cybersecurity. I also build decentralized applications and smart contracts.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Open to:** Software Engineer · Cloud / Security Engineer · Blockchain Developer
+
+<br/>
+
+## Focus
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <b>Full Stack</b><br/>
+      <sub>React, Node.js, NestJS, FastAPI. Clean APIs, fast interfaces.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Cloud</b><br/>
+      <sub>AWS, Azure, Docker, Vercel. Ship it, scale it, keep it running.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Security</b><br/>
+      <sub>Security fundamentals applied to apps and cloud setups.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Web3</b><br/>
+      <sub>Solidity, Web3.js. Smart contracts and dApps.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Selected work
+
+<!--
+  EDIT: replace each row with a REAL project. Formula for the one-liner:
+  "Built [what] for [who] that [result with a number]."
+  Example: "Built a role-based file vault on AWS that cut manual access reviews by 60%."
+  Add 3 to 4 rows max. Quality over count.
+-->
+
+| Project | What it does and why it matters | Stack |
+| :-- | :-- | :-- |
+| **[Project One](https://github.com/GVAHCK/REPO-NAME)** | EDIT: one sentence. Problem, solution, measurable result. | `React` `Node.js` `AWS` |
+| **[Project Two](https://github.com/GVAHCK/REPO-NAME)** | EDIT: one sentence. Problem, solution, measurable result. | `Solidity` `Web3.js` `Hardhat` |
+| **[Project Three](https://github.com/GVAHCK/REPO-NAME)** | EDIT: one sentence. Problem, solution, measurable result. | `FastAPI` `MongoDB` `Docker` |
+
+<br/>
+
+## Experience
+
+<!--
+  EDIT: fill in your 3 internships. Lead with impact, not duties.
+  Weak:   "Worked on the backend."
+  Strong: "Built 6 REST endpoints in NestJS; cut report generation from 40s to 6s."
+-->
+
+| Role | Company | Period | Impact |
+| :-- | :-- | :-- | :-- |
+| EDIT: Role | EDIT: Company | EDIT: Mon YYYY – Mon YYYY | EDIT: one line with a number |
+| EDIT: Role | EDIT: Company | EDIT: Mon YYYY – Mon YYYY | EDIT: one line with a number |
+| EDIT: Role | EDIT: Company | EDIT: Mon YYYY – Mon YYYY | EDIT: one line with a number |
+
+<br/>
+
+## Stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=html,java,js,c,cpp,solidity" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,webpack" alt="Frontend"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,npm" alt="Backend"/>
+
+**Cloud and DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker" alt="Cloud and DevOps"/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,dynamodb,firebase,supabase" alt="Databases"/>
+
+**Data and ML**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" alt="Data and ML"/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postman,notion" alt="Tools"/>
+
+<sub>Also: Expo · Oracle Cloud · Web3.js · Matplotlib</sub>
+
+<br/>
+
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GVAHCK&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=GVAHCK&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GVAHCK&layout=compact&langs_count=6&hide_border=true&theme=github_dark">
+    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVAHCK&layout=compact&langs_count=6&hide_border=true&theme=default">
+  </picture>
+</p>
+
+<br/>
+
+<div align="center">
+  <sub>Let's build something. <a href="mailto:venkataaakash5@gmail.com">venkataaakash5@gmail.com</a></sub>
+</div>
